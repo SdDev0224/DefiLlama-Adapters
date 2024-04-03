@@ -1,0 +1,4 @@
+{
+  "totalPairs": "uint256:totalPairs",
+  "allPairs": "function allPairs(uint256) view returns (address)"
+}

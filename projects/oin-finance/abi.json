@@ -1,0 +1,5 @@
+{
+  "peek": "uint256:peek",
+  "totalToken": "uint256:totalToken",
+  "totalUSDODeposits": "uint256:totalUSDODeposits"
+}

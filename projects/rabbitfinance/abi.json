@@ -1,0 +1,3 @@
+{
+  "totalToken": "function totalToken(address token) view returns (uint256)"
+}

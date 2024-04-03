@@ -1,0 +1,4 @@
+{
+  "poolCount": "uint256:poolCount",
+  "getPoolToken": "function getPoolToken(uint256 _poolId) view returns (address)"
+}
